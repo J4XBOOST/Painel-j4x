@@ -1,4 +1,4 @@
- import os
+import os
 import time
 R = "\033[0m"      # reset
 B = "\033[34m"     # azul escuro
